@@ -10,6 +10,9 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/microbit-caroline/tutorial-test** and import
 
+#Tutorials
+* [tutorial](/tutorial)
+
 ## Edit this project
 
 To edit this repository in MakeCode.
