@@ -1,5 +1,5 @@
 # tutorial
-## Step 1 - Introduction
+## Step 1 - Introduction @unplugged
 
 Learn how to use the LEDS to display a string! 
 
