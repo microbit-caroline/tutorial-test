@@ -11,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * search for **https://github.com/microbit-caroline/tutorial-test** and import
 
 #Tutorials
-* [tutorial](/tutorial)
+* [tutorial](/tutorial) [start](/<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>)
 
 ## Edit this project
 
